@@ -35,6 +35,4 @@ A4321B40,8500C31,1500FKUX
   
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://github.com/yasirsharp/Alcak-Irtifa-Roket-Arayuzu-Yedek_Aviyonik/blob/master/Alcak_Irtifa_Asel5000_AnaAviyonik.png)
-
-  
+![Uygulama Ekran Görüntüsü](https://github.com/yasirsharp/Alcak-Irtifa-Roket-Arayuzu-Ana_Aviyonik/blob/master/Alcak_Irtifa_Asel5000_AnaAviyonik.png)
