@@ -25,9 +25,9 @@ A4321B40,8500C31,1500FKUX
 
 `C31,1500` | Boylam
 
-`R` | Görev 1 Sonu
+`F` | Görev 1 Sonu
 
-`T` | Görev 2 Sonu
+`K` | Görev 2 Sonu
 
 `U` | Sensör Hatası
 
